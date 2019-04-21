@@ -15,6 +15,13 @@
 repbox라는 스플 박스에서 영감을 얻었습니다.
 
 ![](https://github.com/ulsanether/openspoolbox/blob/master/1.PNG)
+대략적인 조립도
 ![](https://github.com/ulsanether/openspoolbox/blob/master/2.PNG)
+
+
 ![](https://github.com/ulsanether/openspoolbox/blob/master/3.PNG)
+
+
+
 ![](https://github.com/ulsanether/openspoolbox/blob/master/4.PNG)
+hinge 폴더내의 stl파일은 서포트가 필요로 합니다. 그 외에는 서포트가 필요 없습니다.
