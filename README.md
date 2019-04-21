@@ -1,5 +1,7 @@
 2019년 4월 21일자. 
 
+(https://github.com/ulsanether/openspoolbox/blob/master/1.PNG)
+
 5개의 스플을 거치 할 수 있는 스플 박스 입니다.
 
 12t 900x1800 합판 하나로 2개의 스플박스를 만들수 있습니다.
