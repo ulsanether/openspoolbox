@@ -1,6 +1,5 @@
 2019년 4월 21일자. 
 
-(https://github.com/ulsanether/openspoolbox/blob/master/1.PNG)
 
 5개의 스플을 거치 할 수 있는 스플 박스 입니다.
 
@@ -15,4 +14,7 @@
 
 repbox라는 스플 박스에서 영감을 얻었습니다.
 
-
+![](https://github.com/ulsanether/openspoolbox/blob/master/1.PNG)
+![](https://github.com/ulsanether/openspoolbox/blob/master/2.PNG)
+![](https://github.com/ulsanether/openspoolbox/blob/master/3.PNG)
+![](https://github.com/ulsanether/openspoolbox/blob/master/4.PNG)
