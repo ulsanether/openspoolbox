@@ -1,6 +1,6 @@
-echo "# openspoolbox">> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-자식 원격 추가 원본 https://github.com/ulsanether/openspoolbox.git
- git push -u 원본 마스터
+
+5개의 스플을 거치 할 수 있는 스플 박스 입니다.
+
+repbox라는 스플 박스에서 영감을 얻었습니다.
+
+더이상 설명할 말이 없군요.
