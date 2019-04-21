@@ -5,7 +5,17 @@
 
 12t 900x1800 합판 하나로 2개의 스플박스를 만들수 있습니다.
 
+![](https://github.com/ulsanether/openspoolbox/blob/master/5.PNG)
+![](https://github.com/ulsanether/openspoolbox/blob/master/6.PNG)
+![](https://github.com/ulsanether/openspoolbox/blob/master/7.PNG)
+
+내용
+레이저 컷터나, cnc로 출력 할수 있는 dxf파일, 
+3d 프린터로 출력해야 하는 stl파일
+
+
 그 외 재료
+5mm(450x190mm), 3mm(475x61mm) 투명 아크릴판 각 하나. 
 15파이 우레탄봉 1m짜리 하나. 
 20x10x1.5mm 네오디옴 자석 4개
 608베어링 20개
@@ -24,4 +34,7 @@ repbox라는 스플 박스에서 영감을 얻었습니다.
 
 
 ![](https://github.com/ulsanether/openspoolbox/blob/master/4.PNG)
+
 hinge 폴더내의 stl파일은 서포트가 필요로 합니다. 그 외에는 서포트가 필요 없습니다.
+
+
