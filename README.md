@@ -29,6 +29,7 @@
 각종 볼트 너트가 필요로 합니다. 
 
 repbox라는 스플 박스에서 영감을 얻었습니다.
+(https://www.repkord.com/)
 
 ![](https://github.com/ulsanether/openspoolbox/blob/master/1.PNG)
 대략적인 조립도
