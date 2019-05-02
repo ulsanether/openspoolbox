@@ -19,8 +19,9 @@
 
 
 <P></P>
-<h6 id="오픈스플박스">
-<p>내용
+<h6 id="오픈스플박스"></h6>
+
+<p><내용
 <p>레이저 컷터나, cnc로 출력 할수 있는 dxf파일, 
 3d 프린터로 출력해야 하는 stl파일</p>
 
@@ -40,7 +41,7 @@
 
 <P>repbox라는 스플 박스에서 영감을 얻었습니다.</P>]
 
-<li><a href=https://www.repkord.com/>REBOX로 가기</li>
+<li><a href=https://www.repkord.com/>REBOX로 가기</li><br/>
 <p></p>
 ![](https://github.com/ulsanether/openspoolbox/blob/master/1.PNG)
 대략적인 조립도
