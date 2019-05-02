@@ -3,7 +3,7 @@
 
 
 
-<h1><a href ="#오픈스플박스></h1>
+<h1><a href ="#오픈스플박스>오픈 스플 박스</h1>
 
 
 
@@ -25,6 +25,7 @@
 <p>레이저 컷터나, cnc로 출력 할수 있는 dxf파일, 
 3d 프린터로 출력해야 하는 stl파일</p>
 
+<hr />
 
 그 외 재료
 5mm(450x190mm), 3mm(475x61mm) 투명 아크릴판 각 하나. 
@@ -39,9 +40,14 @@
 
 각종 볼트 너트가 필요로 합니다. 
 
+<hr />
+
 <P>repbox라는 스플 박스에서 영감을 얻었습니다.</P>]
 
-<li><a href=https://www.repkord.com/>REBOX로 가기</li><br/>
+<br><a href=https://www.repkord.com/>REBOX로 가기></a><br/>
+
+<hr />
+
 <p></p>
 ![](https://github.com/ulsanether/openspoolbox/blob/master/1.PNG)
 대략적인 조립도
