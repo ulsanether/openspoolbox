@@ -1,5 +1,8 @@
 2019년 4월 21일자. 
 
+
+
+
 <h1><a href ="#오픈스플박스>오픈스플박스</h1>
 
 
@@ -12,6 +15,10 @@
 ![](https://github.com/ulsanether/openspoolbox/blob/master/6.PNG)
 ![](https://github.com/ulsanether/openspoolbox/blob/master/7.PNG)
 
+
+
+
+<P></P>
 <h6 id="오픈스플박스">내용</h6>
 
 <p>내용
@@ -32,8 +39,9 @@
 
 각종 볼트 너트가 필요로 합니다. 
 
-<P>repbox라는 스플 박스에서 영감을 얻었습니다.</P>
-<h2><a href=https://www.repkord.com/>REBOX</h2>
+<P>repbox라는 스플 박스에서 영감을 얻었습니다.</P>]
+
+<h2><a href=https://www.repkord.com/>REBOX로 가기</h2>
 
 ![](https://github.com/ulsanether/openspoolbox/blob/master/1.PNG)
 대략적인 조립도
