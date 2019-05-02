@@ -2,6 +2,8 @@
 
 <h1><a href ="#오픈스플박스>오픈스플박스</h1>
 
+
+
 5개의 스플을 거치 할 수 있는 스플 박스 입니다.
 
 12t 900x1800 합판 하나로 2개의 스플박스를 만들수 있습니다.
@@ -10,7 +12,8 @@
 ![](https://github.com/ulsanether/openspoolbox/blob/master/6.PNG)
 ![](https://github.com/ulsanether/openspoolbox/blob/master/7.PNG)
 
-<h6 id="오픈스플박스">오픈스블박스 내용</h6>
+<h6 id="오픈스플박스">내용</h6>
+
 <p>내용
 <p>레이저 컷터나, cnc로 출력 할수 있는 dxf파일, 
 3d 프린터로 출력해야 하는 stl파일</p>
@@ -29,8 +32,8 @@
 
 각종 볼트 너트가 필요로 합니다. 
 
-repbox라는 스플 박스에서 영감을 얻었습니다.
-(https://www.repkord.com/)
+<P>repbox라는 스플 박스에서 영감을 얻었습니다.</P>
+<h2><a href=https://www.repkord.com/>REBOX</h2>
 
 ![](https://github.com/ulsanether/openspoolbox/blob/master/1.PNG)
 대략적인 조립도
