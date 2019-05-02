@@ -1,6 +1,6 @@
 2019년 4월 21일자. 
 
-<h1><a href ="#오픈슬플박스>오픈스플박스</h1>
+<h1><a href ="#오픈스플박스>오픈스플박스</h1>
 
 5개의 스플을 거치 할 수 있는 스플 박스 입니다.
 
@@ -10,8 +10,8 @@
 ![](https://github.com/ulsanether/openspoolbox/blob/master/6.PNG)
 ![](https://github.com/ulsanether/openspoolbox/blob/master/7.PNG)
 
-<h1 id="alpa">lpha</h1>
-내용
+<h6 id="오픈스플박스">오픈스블박스 내용</h1>
+<p>내용
 <p>레이저 컷터나, cnc로 출력 할수 있는 dxf파일, 
 3d 프린터로 출력해야 하는 stl파일</p>
 
